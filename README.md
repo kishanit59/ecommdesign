@@ -1,4 +1,3 @@
-````markdown
 # 🌐 E-commerce Website Design
 ---
 
@@ -46,4 +45,3 @@ npm install
 
 # Run the project
 npm run dev
-````
