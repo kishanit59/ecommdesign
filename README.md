@@ -9,7 +9,25 @@ This is a modern and responsive **e-commerce website design** created using fron
 
 ## 📸 Screenshots
 
-![E-Commerce website Design Screenshot](https://raw.githubusercontent.com/kishanit59/ecommdesign/refs/heads/main/slider.png)
+![E-Commerce website Design Screenshot](https://raw.githubusercontent.com/kishanit59/ecommdesign/refs/heads/main/assets/slider.png)
+
+![E-Commerce website Design Screenshot](https://raw.githubusercontent.com/kishanit59/ecommdesign/refs/heads/main/assets/homepage_1.png)
+
+![E-Commerce website Design Screenshot](https://raw.githubusercontent.com/kishanit59/ecommdesign/refs/heads/main/assets/homepage.png)
+
+![E-Commerce website Design Screenshot](https://raw.githubusercontent.com/kishanit59/ecommdesign/refs/heads/main/assets/homepage_instagram.png)
+
+![E-Commerce website Design Screenshot](https://raw.githubusercontent.com/kishanit59/ecommdesign/refs/heads/main/assets/products.png)
+
+![E-Commerce website Design Screenshot](https://raw.githubusercontent.com/kishanit59/ecommdesign/refs/heads/main/assets/cartdrawer.png)
+
+![E-Commerce website Design Screenshot](https://raw.githubusercontent.com/kishanit59/ecommdesign/refs/heads/main/assets/viewcart.png)
+
+![E-Commerce website Design Screenshot](https://raw.githubusercontent.com/kishanit59/ecommdesign/refs/heads/main/assets/ourblog.png)
+
+![E-Commerce website Design Screenshot](https://raw.githubusercontent.com/kishanit59/ecommdesign/refs/heads/main/assets/aboutus.png)
+
+![E-Commerce website Design Screenshot](https://github.com/kishanit59/ecommdesign/blob/main/assets/contactus.png)
 
 ---
 
